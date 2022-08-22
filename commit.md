@@ -1,4 +1,4 @@
-[< к содержанию](./readme.md)
+[< к содержанию](./README.md)
 
 ## git commit
 ---
@@ -32,4 +32,4 @@ git commit -am "commit message"
 git commit --amend
 ```
 
-[< к содержанию](./readme.md)
+[< к содержанию](./README.md)

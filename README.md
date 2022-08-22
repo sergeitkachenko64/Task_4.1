@@ -4,38 +4,38 @@ LICENSE [MIT](./license.md)
 
 ![git-logo](./assets/git-logo.png)
 
----
+***
 
 ## Содержание:
 ### 1. Создание и настройка репозитория.
-  + git init
-  + git clone
-  + git config
+  + [git init](./init.md)
+  + [git clone](./clone.md)
+  + [git config](./config.md)
 
 ### 2. Сохранение изменений.
   - [git add](./add.md)
   - [git commit](./commit.md)
-  - git diff
-  - git stash
-  - .gitignore
+  - [git diff](./diff.md)
+  - [git stash](./stash.md)
+  - [.gitignore](./gitignore.md)
 
 ### 3. Проверка репозитория.
-  * git status
-  * git tag
-  * git blame
+  * [git status](./status.md)
+  * [git tag](./tag.md)
+  * [git blame](./blame.md)
 
 ### 4. Отмена коммитов и изменений.
-  - git checkout
-  - git clean
-  - git revert
-  - git reset
-  - git rm
+  - [git checkout](./checkout.md)
+  - [git clean](./clean.md)
+  - [git revert](./revert.md)
+  - [git reset](./reset.md)
+  - [git rm](./rm.md)
 
 ### 5. Переписывание истории.
-  + git commit -amend
-  + git rebase
-  + git rebase -i
-  + git reflog
+  + [git commit --amend](./commit-amend.md)
+  + [git rebase](./rebase.md)
+  + [git rebase -i](./rebase-i)
+  + [git reflog](./reflog.md)
 
 ---
 Git Logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)

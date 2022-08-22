@@ -12,5 +12,4 @@
 git checkout a1e8fb5
 ```
 
-
 [< к содержанию](./README.md)

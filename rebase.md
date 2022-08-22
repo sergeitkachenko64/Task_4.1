@@ -12,5 +12,4 @@
 git rebase <base>
 ```
 
-
 [< к содержанию](./README.md)

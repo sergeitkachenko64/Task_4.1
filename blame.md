@@ -12,5 +12,4 @@
 git blame README.MD
 ```
 
-
 [< к содержанию](./README.md)

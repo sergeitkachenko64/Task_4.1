@@ -42,5 +42,4 @@ git diff branch1..other-feature-branch
 git diff main new_branch ./diff_test.txt
 ```
 
-
 [< к содержанию](./README.md)

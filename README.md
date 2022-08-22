@@ -1,6 +1,6 @@
 # Инструкция по работе с GIT.
 
-LICENSE [MIT](./LICENSE.md)
+LICENSE [MIT](./li.md)
 
 ![git-logo](./assets/git-logo.png)
 
@@ -32,7 +32,7 @@ LICENSE [MIT](./LICENSE.md)
 ### 5. Переписывание истории.
   + [git commit --amend](./commit-amend.md)
   + [git rebase](./rebase.md)
-  + [git rebase -i](./rebase-i)
+  + [git rebase -i](./rebase-i.md)
   + [git reflog](./reflog.md)
 
 ---

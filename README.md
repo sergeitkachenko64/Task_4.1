@@ -1,11 +1,14 @@
 # Инструкция по работе с GIT.
 
-LICENSE [MIT](./LICENSE.md)
+LICENSE [MIT](LICENSE.md)
 
 ![git-logo](./assets/git-logo.png)
 
 
 ## Содержание:
+
+</br>
+
 ### 1. Создание и настройка репозитория.
   + [git init](./init.md)
   + [git clone](./clone.md)

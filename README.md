@@ -4,7 +4,6 @@ LICENSE [MIT](./LICENSE.md)
 
 ![git-logo](./assets/git-logo.png)
 
----
 
 ## Содержание:
 ### 1. Создание и настройка репозитория.
